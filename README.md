@@ -26,7 +26,7 @@ Gosto de **unir tecnologia e criatividade** para desenvolver soluções funciona
 
 ---
 
-## Technologies and tools
+## Tecnologias e ferramentas
 
 <div align="center">
 
